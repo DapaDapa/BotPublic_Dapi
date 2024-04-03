@@ -1,0 +1,25 @@
+{
+  "name": "botpublic_dapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
